@@ -29,6 +29,7 @@ A student developer from Ye Olde Angleterre. Welcome to my software library!
 - 🖥 I preffer mac, but [my gates are open](https://www.reddit.com/r/gatesopencomeonin/)!
 - 🌏 I have a [website](https://shinkson47.in)! Now, i'm not a web designer, but I'm trying my best :)
 
+<!--
 ## <p align=center>What's on my plate</p>
 
 #### Splash X6
@@ -43,12 +44,13 @@ Haven't you heard? There's a new indie game in town!
 
 Check out the repository [here](https://github.com/Pheonix-org/SplashX6). 
 
+
 #### WheelyCat's Project Torte.
 
 Recently, I was Co-lead to a ~10 man development team behind the now archived [torte](https://github.com/WheelyCatStudios/torte) RPG game project. The project has since been replaced by [Project Torte](https://github.com/WheelyCatStudios/Project-Torte), and the structure of command has been abolished in favour of a more friendly level plane.
 
 </div>
-
+-->
 
 
 <!--
