@@ -77,6 +77,6 @@ An IDE similar to bootstrap studio for creating web pages & web apps, being deve
 
 ![Screen Shot 2022-07-09 at 18 34 24](https://user-images.githubusercontent.com/50697488/178116749-f42e4d4e-d32d-4075-a3bf-e0cd5d015915.png)
 
-Check out the repository for releases and the research papers [here](https://github.com/Pheonix-org/SplashX6). 
+Check on progress [here](https://github.com/jdngray77/HTMLDesigner). 
 
 </div>
