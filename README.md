@@ -2,7 +2,7 @@
  
 # Hi there, I 'm Jordan! 
 
-![](https://img.shields.io/badge/(_he_/_him_)-purple.svg?style=for-the-badge)
+![](https://img.shields.io/badge/(_they_/them_)-purple.svg?style=for-the-badge)
 
 A student developer from Ye Olde Angleterre. Welcome to my software library!
 
