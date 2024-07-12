@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/(_they_/them_)-purple.svg?style=for-the-badge)
 
-A student developer from Ye Olde Angleterre. Welcome to my software library!
+A developer from Ye Olde Angleterre. Welcome to my software library!
 
 </span>
 
