@@ -1,6 +1,6 @@
  <span align=center> 
  
-# Hi there, I 'm Jordan! 
+# Hi there! 
 
 ![](https://img.shields.io/badge/(_they_/them_)-purple.svg?style=for-the-badge)
 
